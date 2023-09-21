@@ -12,7 +12,7 @@ The SVG Logo Creator is an engaging object-oriented programming challenge that e
 - [Usage](#Usage)
 - [Contribution Guidelines](#Contribution-Guidelines)
 - [Acknowledgments](#Acknowledgments)
-- [Useful Resources](#Useful-Resources)
+
 
 ## Key Features
 
